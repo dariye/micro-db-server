@@ -1,7 +1,7 @@
-# micro-db-server [wip]
+# micro-db-server
 
-A simple database server that writes to a json file using micro. Visit
-[micro-db-server](micro-db-server.now.sh) to give it a try.
+A simple database server poc that reads/writes from/to a json file using micro. Visit
+[micro-db-server](https://micro-db-server.now.sh) to give it a try.
 
 ## Usage
 
