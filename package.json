@@ -1,0 +1,16 @@
+{
+  "name": "micro-db-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "micro-dev",
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "^9.3.3"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
